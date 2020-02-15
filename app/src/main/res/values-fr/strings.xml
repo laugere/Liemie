@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Liemie</string>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="action_login">Connexion</string>
+
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="passwordHint">Mot de passe</string>
+    <string name="login">Connexion</string>
+    <string name="id">Identifiant</string>
+    <string name="cancel">Annuler</string>
+
+    <string name="menu_login">Connexion</string>
+    <string name="menu_list">Liste</string>
+    <string name="menu_import">Importer</string>
+    <string name="menu_export">Exporter</string>
+    <string name="menu_info">Informations</string>
+
+    <string name="main_disconnect">Déconnexion</string>
+    <string name="main_disconnectMessage">Voulez-vous vraiment vous déconnecter ?</string>
+
+    <string name="error_entry">Erreur de saisie</string>
+    <string name="error_permission">Cette permission est nécessaire pour l\'application</string>
+
+    <string name="offline_message">En mode hors ligne, l\'application est limitée</string>
+
+    <string name="general_message">Message</string>
+
+    <string name="import_import">Importer</string>
+
+    <string name="strOK">ok</string>
+    <string name="strCANCEL">Annuler</string>
+</resources>
